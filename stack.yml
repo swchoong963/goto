@@ -6,3 +6,4 @@ functions:
   goto:
     lang: node10-express
     handler: ./goto
+    image: schoonggoto:latest
